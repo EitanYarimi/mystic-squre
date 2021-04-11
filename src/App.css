@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+span:hover {
+  cursor: pointer;
+}
+
+h1 {
+  color:black
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -14,8 +22,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  padding-top: 50px;
   display: flex;
   flex-direction: column;
   align-items: center;
